@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: #dad7cd;
+}
+.form-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 5%;
+}
+
+.form {
+  width: 25%;
+  border: #588157 solid 5px;
+  background-color: #a3b18a;
+  border-radius: 25px;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
